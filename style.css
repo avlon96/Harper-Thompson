@@ -257,7 +257,11 @@ header .navbar.active{
     header #menu_bars{
         display: initial;
     }
-
+    
+    container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
     header .navbar{
         position: absolute;
         top: 100%;
@@ -270,7 +274,7 @@ header .navbar.active{
     }
     header .navbar a{
         display: block;
-        background: white;
+        background: black;
         margin-top: 1rem;
         padding: 2rem;
         width: 90%;
