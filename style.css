@@ -156,9 +156,9 @@ header .navbar.active{
     padding-top: 1rem;
 }
 .btn{
-    padding: 1rem 3rem;
+    padding: 5rem 10rem;
     background: var(--backgroundcolor);
-    border-radius: 15px;
+    border-radius: 25px;
    display: inline-block;
    color: white;
    font-size: 18px;
