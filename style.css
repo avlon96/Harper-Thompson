@@ -258,10 +258,7 @@ header .navbar.active{
         display: initial;
     }
     
-    container {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
+   
     header .navbar{
         position: absolute;
         top: 100%;
@@ -274,7 +271,7 @@ header .navbar.active{
     }
     header .navbar a{
         display: block;
-        background: black;
+        background: white;
         margin-top: 1rem;
         padding: 2rem;
         width: 90%;
