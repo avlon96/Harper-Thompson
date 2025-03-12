@@ -35,7 +35,7 @@ header{
 
 
 header #logo{
-    font-size: 3rem;
+    font-size: 4rem;
     color: black;
     
 }
@@ -332,7 +332,6 @@ ul {
     width: 100%;
     background: #7baebc;
     color: white;
-    font-family: ;
     margin: 0;
     padding: 0;
     vertical-align: middle;
